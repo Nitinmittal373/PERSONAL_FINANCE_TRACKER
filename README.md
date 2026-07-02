@@ -33,8 +33,7 @@ finance-tracker/
 Choose from the available menu options to:
 
 * Add a new transaction
-* View transactions and financial summary
-* Display a graph of income and expenses
+* View transactions and financial summary (Display a graph of income and expenses)
 * Exit the application
 
 ## License
